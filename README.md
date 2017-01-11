@@ -30,11 +30,6 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install solution
-
-
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
