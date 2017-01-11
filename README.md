@@ -23,7 +23,7 @@ Yes, you need this
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'solution'
+gem 'solution', github: 'poilon/solution'
 ```
 
 And then execute:
