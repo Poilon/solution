@@ -16,12 +16,16 @@ Yes, you need this
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'solution', github: 'poilon/solution'
+gem 'solution'
 ```
 
 And then execute:
 
     $ bundle
+
+Or install it yourself:
+
+    $ gem install 'solution'
 
 ## License
 
