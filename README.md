@@ -4,15 +4,8 @@ If you are sick of all the `undefined method` exceptions that are throwed at you
 you are forced to do all the `try` or `&.` shenanigans, please consider this gem !
 
 ```
-class Toto
-end
-
-Toto.iepaeaipgeaipgneai
+nil.gpibeaneanpcnna
 => nil
-
-Toto.new.epzgjezignzegezn
-=> nil
-
 ```
 
 Yes, you need this
