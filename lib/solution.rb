@@ -1,9 +1,5 @@
 require "solution/version"
+require 'redefine'
 
-class BasicObject
-
-  def method_missing?
-    nil
-  end
-
+module Solution
 end
