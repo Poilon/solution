@@ -1,4 +1,4 @@
-class BasicObject
+class NilClass
 
   def method_missing(*_)
     nil
